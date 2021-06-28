@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Voyager, Laravel, Angular, Microservices, Docker, Redis, PHPUnit [Technical Lead 10+ years experienced]
+- 🔭 I’m 10+ year Tech Lead/Full Stack Developer and currently working on Voyager, Laravel, Angular, ionic, VueJS, Microservices, Docker, Redis, PHPUnit, RabbitMQ.
 - 🌱 I’m currently learning Livewire, Tailwind
 - 👯 I’m looking to collaborate on Voyager and Laravel Packages
 - 🤔 I’m looking for help with new ideas
@@ -24,3 +24,5 @@
   - **[Joy VoyagerSurvey]** A simple survey app.
 - Request a feature
   - https://github.com/rxcod9/rxcod9/issues/new?assignees=&labels=&template=feature_request.md&title=
+- Loved my work and want to support 
+  - https://patreon.com/ramakant
