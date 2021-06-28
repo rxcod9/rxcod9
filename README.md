@@ -10,25 +10,13 @@
   - **[Joy VoyagerDataTable]** Joy VoyagerDataTable module adds Async/Ajax Yajra DataTable to Voyager.
   - **[Joy VoyagerApi]** Joy VoyagerApi module adds REST Api end points to Voyager with Passport and Swagger support.
   - **[Joy VoyagerApiAuth]** Joy VoyagerApiAuth module adds REST Api Auth end points with Passport support to Voyager.
-- What I am planning to do next
-  - **[Joy VoyagerDataTable]** Add Global Search + Column Filter support, Support multiple type of datatable
-  - **[Joy VoyagerDataTable]** Add caching to speedup
-  - **[Joy VoyagerApi]** Add caching to speedup
-  - **[Joy VoyagerImportExport]** Add import/export to Voyager supporitng formats (Excel, CSV, TSV, JSON, XML, SQL)
-  - **[Joy VoyagerWidgets]** Add Dimmers (Charts, Aggregated Numbers, Mini Tables)
-  - **[Joy VoyagerUserSettings]** Add user specifix settings similar as voyager global settings.
-  - **[Joy VoyagerInlineEditing]** Add inline editing feature.
-  - **[Joy VoyagerGenerator]** DB schema/table to Voyager DataType+DataRows+Menus+Permissions+TableSeeder auto converting to DataRows.
-  - **[Joy VoyagerHelpDesk]** Support Systems with data types (Tickets, Teams, Agents, Conversations, Notes, Categories).
-  - **[Joy VoyagerCRM]** SaleCRM with data types (Inspired from SuiteCRM).
-  - **[Joy VoyagerSurvey]** A simple survey app.
 - Request a feature
   - https://github.com/rxcod9/rxcod9/issues/new?assignees=&labels=&template=feature_request.md&title=
 - Loved my work and want to support 
   - https://patreon.com/ramakant
 
 
-# Todoist Stats
+# Todoist - What I am planning to do next
 
 <!-- TODO-IST:START -->
 | Task        | Project           | Section  |           
