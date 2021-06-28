@@ -31,8 +31,11 @@
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
+| Task        | Project           | Section  |           
+| ------------- |:-------------:| -----:|           
+| [Joy VoyagerDataTable] Add Global Search + Column Filter support, Support multiple type of datatable        | Inbox           | Pending  |           
+| [Joy VoyagerDataTable] Add caching to speedup        | Inbox           | Pending  |           
+| [Joy VoyagerApi] Add caching to speedup        | Inbox           | Pending  |           
+| [Joy VoyagerImportExport] Add import/export to Voyager supporitng formats (Excel, CSV, TSV, JSON, XML, SQL)        | Inbox           | Pending  |           
+| [Joy VoyagerWidgets] Add Dimmers (Charts, Aggregated Numbers, Mini Tables)        | Inbox           | Pending  |
 <!-- TODO-IST:END -->
