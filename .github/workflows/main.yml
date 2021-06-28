@@ -8,11 +8,11 @@ on:
 
 jobs:
   update-readme:
-    name: Update todoist stats
+    name: Update Todoist tasks list
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: abhisheknaiidu/todoist-readme@master
+      - uses: rxcod9/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          PREMIUM: ""
+          TODOIST_LENGTH: ${{ secrets.TODOIST_LENGTH }}
