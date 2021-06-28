@@ -21,7 +21,7 @@
 <!-- TODO-IST:START -->
 | Task        | Project           | Section  |           
 | ------------- |:-------------:| -----:|           
-| [Joy VoyagerDataTable] Add Global Search + Column Filter support, Support multiple type of datatable        | Inbox           | Pending  |           
+| [Joy VoyagerDataTable] ~~Add Global Search~~ + Column Filter support, Support multiple type of datatable        | Inbox           | Pending  |           
 | [Joy VoyagerDataTable] Add caching to speedup        | Inbox           | Pending  |           
 | [Joy VoyagerApi] Add caching to speedup        | Inbox           | Pending  |           
 | [Joy VoyagerImportExport] Add import/export to Voyager supporitng formats (Excel, CSV, TSV, JSON, XML, SQL)        | Inbox           | Pending  |           
