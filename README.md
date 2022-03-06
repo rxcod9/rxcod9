@@ -22,7 +22,7 @@
 | Task        | Project           | Section  |           
 | ------------- |:-------------:| -----:|           
 | [Joy VoyagerDataTable] ~~Add Global Search~~ + Column Filter support, Support multiple type of datatable        | Inbox           | Pending  |           
-| [Joy VoyagerImportExport] Add import/export to Voyager supporting formats (Excel, CSV, TSV, JSON, XML, SQL)        | Inbox           | Pending  |           
+| [Joy VoyagerImportExport] Add import/export to Voyager supporting formats (Excel, CSV, TSV, JSON, XML, SQL)        | Inbox           | In Progress  |           
 | [Joy VoyagerWidgets] Add Dimmers (Charts, Aggregated Numbers, Mini Tables)        | Inbox           | Pending  |           
 | [Joy VoyagerUserSettings] Add user specific settings similar as voyager global settings.        | Inbox           | Pending  |           
 | [Joy VoyagerInlineEditing] Add inline editing feature.        | Inbox           | Pending  |
