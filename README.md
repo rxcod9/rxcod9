@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://github.com/rxcod9/rxcod9/discussions/1
 - My Recent work
   - **[[Joy VoyagerDataTable](https://github.com/rxcod9/joy-voyager-datatable)]** Joy VoyagerDataTable module adds Async/Ajax Yajra DataTable to Voyager.
-  - **[[Joy VoyagerApi](https://github.com/rxcod9/joy-voyager-api)]** Joy VoyagerApi module adds REST Api end points to Voyager with Passport and Swagger support.
+  - **[[Joy VoyagerApi](https://github.com/rxcod9/joy-voyager-api)]** Joy VoyagerApi module adds REST Api end points to Voyager with Passport and Swagger support + Filter support.
   - **[[Joy VoyagerApiAuth](https://github.com/rxcod9/joy-voyager-api-auth)]** Joy VoyagerApiAuth module adds REST Api Auth end points with Passport support to Voyager.
 - Request a feature
   - https://github.com/rxcod9/rxcod9/issues/new?assignees=&labels=&template=feature_request.md&title=
