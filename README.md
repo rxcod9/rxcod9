@@ -24,6 +24,6 @@
 | [Joy VoyagerDataTable] ~~Add Global Search~~        | Inbox           | Completed  |           
 | [Joy VoyagerImportExport] ~~Add import/export to Voyager supporting formats (Excel, CSV, TSV, JSON, XML, SQL)~~        | Inbox           | Completed  |           
 | [Joy VoyagerWidgets] Add Dimmers (Charts, Aggregated Numbers, Mini Tables)        | Inbox           | Pending  |           
-| [Joy VoyagerUserSettings] Add user specific settings similar as voyager global settings.        | Inbox           | Pending  |           
-| [Joy VoyagerInlineEditing] Add inline editing feature.        | Inbox           | Pending  |
+| [Joy VoyagerUserSettings] ~~Add user specific settings similar as voyager global settings.~~        | Inbox           | Pending  |           
+| Voyager Config same as Voyager settings to edit laravel config        | Inbox           | Pending  |
 <!-- TODO-IST:END -->
