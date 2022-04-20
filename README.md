@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m 11 year Tech Lead/Full Stack Developer and currently working on Voyager, Laravel, Angular, Nuxt, Microservices, Docker, Redis, PHPUnit, RabbitMQ.
+- 🔭 I’m 11 year experienced Tech Lead/Full Stack Developer and currently working on Voyager, Laravel, Angular, Nuxt, Microservices, Docker, Redis, PHPUnit, RabbitMQ.
 - 🌱 I’m currently learning Livewire, Tailwind
 - 👯 I’m looking to collaborate on Voyager and Laravel Packages
 - 🤔 I’m looking for help with new ideas
