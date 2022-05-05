@@ -25,5 +25,5 @@
 | [Joy VoyagerImportExport] ~~Add import/export to Voyager supporting formats (Excel, CSV, TSV, JSON, XML, SQL)~~        | Inbox           | Completed  |           
 | [Joy VoyagerWidgets] Add Dimmers (Charts, Aggregated Numbers, Mini Tables)        | Inbox           | Pending  |           
 | [Joy VoyagerUserSettings] ~~Add user specific settings similar as voyager global settings.~~        | Inbox           | Completed  |           
-| Voyager Config same as Voyager settings to edit laravel config        | Inbox           | Pending  |
+| ~~Bulk Change assignee, bulk change field~~        | Inbox           | Completed  |
 <!-- TODO-IST:END -->
