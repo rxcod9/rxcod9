@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m 11 year experienced Tech Lead/Full Stack Developer and currently working on Voyager, Laravel, Angular, Nuxt, Microservices, Docker, Redis, PHPUnit, RabbitMQ.
-- 🌱 I’m currently learning Livewire, Tailwind
-- 👯 I’m looking to collaborate on Voyager and Laravel Packages
+- 🔭 I’m 12+ year experienced Tech Lead/Senior Full Stack Developer and currently working on Voyager, Laravel, Angular, Nuxt, Microservices, Docker, Redis, PHPUnit, RabbitMQ, AWS, ionic+React.
+- 🌱 I’m currently tryinng to get certified in AWS Cloud Practitioner/Solutions Architect.
+- 👯 I’m looking to collaborate on Voyager/Laravel Packages.
 - 🤔 I’m looking for help with new ideas
-- 💬 Ask me about Laravel, Voyager, Docker
+- 💬 Ask me about Laravel, Voyager, Docker, AWS
 - 📫 How to reach me: https://github.com/rxcod9/rxcod9/discussions/1
 - My Recent work
-  - **[[Joy Voyager Multi Tenant](https://github.com/rxcod9/joy-voyager-multi-tenant)]** Joy Voyager Multi Tenant in an integration of stancl/tenancy with voyager.
+  - **[[Joy Voyager CRM](https://github.com/rxcod9/joy-voyager-crm)]** Joy Voyager CRM is an open source free CRM with common CRM modules/features.
+  - **[[Joy Voyager Multi Tenant](https://github.com/rxcod9/joy-voyager-multi-tenant)]** Joy Voyager Multi Tenant is an integration of stancl/tenancy with voyager.
   - **[[Joy VoyagerDataTable](https://github.com/rxcod9/joy-voyager-datatable)]** Joy VoyagerDataTable module adds Async/Ajax Yajra DataTable to Voyager.
   - **[[Joy VoyagerApi](https://github.com/rxcod9/joy-voyager-api)]** Joy VoyagerApi module adds REST Api end points to Voyager with Passport and Swagger support + Filter support.
-  - **[[Joy VoyagerApiAuth](https://github.com/rxcod9/joy-voyager-api-auth)]** Joy VoyagerApiAuth module adds REST Api Auth end points with Passport support to Voyager.
+  - **[[Joy VoyagerExport](https://github.com/rxcod9/joy-voyager-export)]** Joy VoyagerExport module adds bulk export feature to Voyager.
 - Request a feature
   - https://github.com/rxcod9/rxcod9/issues/new?assignees=&labels=&template=feature_request.md&title=
 - Loved my work and want to support 
