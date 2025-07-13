@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m 12+ year experienced Tech Lead/Senior Full Stack Developer and currently working on Voyager, Laravel, Angular, Nuxt, Microservices, Docker, Redis, PHPUnit, RabbitMQ, AWS, ionic+React.
-- 🌱 I’m currently tryinng to get certified in AWS Cloud Practitioner/Solutions Architect.
-- 👯 I’m looking to collaborate on Voyager/Laravel Packages.
+- 🔭 I’m 14+ year experienced Tech Solutionn Architect/Lead/Senior Full Stack Developer and currently working on React, Next.JS, Angular, Laravel, GraphQL, Microservices, GRPC, Docker, Redis, PHPUnit, RabbitMQ, AWS, Azure.
+- 🌱 I am currently working towards the AWS Certified Solutions Architect - Professional certification.
+- 👯 I’m looking to collaborate on Laravel/GRPC Packages.
 - 🤔 I’m looking for help with new ideas
-- 💬 Ask me about Laravel, Voyager, Docker, AWS
+- 💬 Ask me about Laravel, Voyager, Docker, AWS, GRPC
 - 📫 How to reach me: https://github.com/rxcod9/rxcod9/discussions/1
 - My Recent work
+  - **[[Laravel GRPC Microservice](https://github.com/rxcod9/laravel-grpc-microservice)]** Laravel GRPC Microservice minimalistic setup.
+  - **[[Laravel GRPC Example](https://github.com/rxcod9/laravel-grpc-example)]** This repository demonstrates a minimal yet production-ready gRPC integration using Laravel with RoadRunner and Spiral PHP gRPC. It contains two Laravel Sail applications.
   - **[[Joy Voyager CRM](https://github.com/rxcod9/joy-voyager-crm)]** Joy Voyager CRM is an open source free CRM with common CRM modules/features.
   - **[[Joy Voyager Multi Tenant](https://github.com/rxcod9/joy-voyager-multi-tenant)]** Joy Voyager Multi Tenant is an integration of stancl/tenancy with voyager.
   - **[[Joy VoyagerDataTable](https://github.com/rxcod9/joy-voyager-datatable)]** Joy VoyagerDataTable module adds Async/Ajax Yajra DataTable to Voyager.
