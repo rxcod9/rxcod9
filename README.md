@@ -23,11 +23,9 @@
 ## Todoist - What I am planning to do next
 
 <!-- TODO-IST:START -->
-| Task        | Project           | Section  |           
-| ------------- |:-------------:| -----:|           
-| [Joy VoyagerDataTable] ~~Add Global Search~~        | Inbox           | Completed  |           
-| [Joy VoyagerImportExport] ~~Add import/export to Voyager supporting formats (Excel, CSV, TSV, JSON, XML, SQL)~~        | Inbox           | Completed  |           
-| [Joy VoyagerWidgets] Add Dimmers (Charts, Aggregated Numbers, Mini Tables)        | Inbox           | Pending  |           
-| [Joy VoyagerUserSettings] ~~Add user specific settings similar as voyager global settings.~~        | Inbox           | Completed  |           
-| ~~Bulk Change assignee, bulk change field~~        | Inbox           | Completed  |
+🏆  100 Karma Points           
+🌸  Completed 0 tasks today           
+🗓  Completed 0 tasks this week           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
