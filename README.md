@@ -23,9 +23,11 @@
 ## Todoist - What I am planning to do next
 
 <!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
+| Task        | Project           | Section  |           
+| ------------- |:-------------:| -----:|           
+| Watch: Switching from written lists to Todoist 📽️        | Getting Started 👋           | Pending  |           
+| Add tasks as soon as they come to mind 💡        | Getting Started 👋           | Capture  |           
+| Add your first task        | Getting Started 👋           | Capture  |           
+| [Download Todoist apps](https://www.todoist.com/downloads) 📱💻        | Getting Started 👋           | Capture  |           
+| Set aside 5 minutes to review your `Inbox`        | Getting Started 👋           | Review  |
 <!-- TODO-IST:END -->
