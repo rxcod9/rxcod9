@@ -25,9 +25,6 @@
 <!-- TODO-IST:START -->
 | Task        | Project           | Section  |           
 | ------------- |:-------------:| -----:|           
-| Watch: Switching from written lists to Todoist 📽️        | Getting Started 👋           | Pending  |           
-| Add tasks as soon as they come to mind 💡        | Getting Started 👋           | Capture  |           
-| Add your first task        | Getting Started 👋           | Capture  |           
-| [Download Todoist apps](https://www.todoist.com/downloads) 📱💻        | Getting Started 👋           | Capture  |           
-| Set aside 5 minutes to review your `Inbox`        | Getting Started 👋           | Review  |
+| nodejs grpc microservice example        | Personal           | Pending  |           
+| MCP server example        | Personal           | Pending  |
 <!-- TODO-IST:END -->
