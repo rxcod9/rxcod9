@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m 14+ year experienced Tech Solutionn Architect/Lead/Senior Full Stack Developer and currently working on React, Next.JS, Angular, Laravel, GraphQL, Microservices, GRPC, Docker, Redis, PHPUnit, RabbitMQ, AWS, Azure.
+- 🔭 I’m 14+ year experienced Engineering Manager/Tech Solution Architect with Full Stack Expertise and currently working on React, Next.JS, Angular, Laravel, GraphQL, Microservices, GRPC, Docker, Redis, PHPUnit, RabbitMQ, GCP, AWS.
 - 🌱 I am currently working towards the AWS Certified Solutions Architect - Professional certification.
-- 👯 I’m looking to collaborate on Laravel/GRPC Packages.
+- 👯 I’m looking to collaborate on Laravel/GRPC/PHP Swoole Packages.
 - 🤔 I’m looking for help with new ideas
-- 💬 Ask me about Laravel, Voyager, Docker, AWS, GRPC
+- 💬 Ask me about PHP, Laravel, React, Angular, Docker, AWS, GRPC
 - 📫 How to reach me: https://github.com/rxcod9/rxcod9/discussions/1
 - My Recent work
   - **[[Laravel GRPC Microservice](https://github.com/rxcod9/laravel-grpc-microservice)]** Laravel GRPC Microservice minimalistic setup.
