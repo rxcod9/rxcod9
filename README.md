@@ -27,5 +27,6 @@
 | ------------- |:-------------:| -----:|           
 | nodejs grpc microservice example        | Personal           | Pending  |           
 | MCP server example        | Personal           | Pending  |           
-| AWS/Azure Solution Architect Professional Certification        | Personal           | Pending  |
+| AWS/Azure Solution Architect Professional Certification        | Personal           | Pending  |           
+| PHP swoole CRUD microservice        | Personal           | Pending  |
 <!-- TODO-IST:END -->
