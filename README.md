@@ -7,6 +7,7 @@
 - 💬 Ask me about PHP, Laravel, React, Angular, Docker, AWS, GRPC
 - 📫 How to reach me: https://github.com/rxcod9/rxcod9/discussions/1
 - My Recent work
+  - **[[PHP Swoole CRUD Microservice](https://github.com/rxcod9/php-swoole-crud-microservice)]** PHP Swoole CRUD Microservice.
   - **[[Laravel GRPC Microservice](https://github.com/rxcod9/laravel-grpc-microservice)]** Laravel GRPC Microservice minimalistic setup.
   - **[[Laravel GRPC Example](https://github.com/rxcod9/laravel-grpc-example)]** This repository demonstrates a minimal yet production-ready gRPC integration using Laravel with RoadRunner and Spiral PHP gRPC. It contains two Laravel Sail applications.
   - **[[Joy Voyager CRM](https://github.com/rxcod9/joy-voyager-crm)]** Joy Voyager CRM is an open source free CRM with common CRM modules/features.
