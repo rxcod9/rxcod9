@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m 14+ year experienced Engineering Manager/Tech Solution Architect with Full Stack Expertise and currently working on React, Next.JS, Angular, Laravel, GraphQL, Microservices, GRPC, Docker, Redis, PHPUnit, RabbitMQ, GCP, AWS.
+- 🔭 I’m 15+ year experienced Engineering Manager/Tech Solution Architect with Full Stack Expertise and currently working on React, Next.JS, Angular, Laravel, GraphQL, Microservices, GRPC, Docker, Redis, PHPUnit, RabbitMQ, GCP, AWS.
 - 🌱 I am currently working towards the AWS Certified Solutions Architect - Professional certification.
 - 👯 I’m looking to collaborate on Laravel/GRPC/PHP Swoole Packages.
 - 🤔 I’m looking for help with new ideas
